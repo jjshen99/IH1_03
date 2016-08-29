@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2016-08-29 20:22:43</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8816c12d35a52200964f3d3b0ebb6d0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_app_ih1_3_table.x_app_ih1_3.user</sys_name>
+        <sys_package display_value="App_IH1_3" source="x_app_ih1_3">6b06412d35a52200964f3d3b0ebb6d9f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="App_IH1_3">6b06412d35a52200964f3d3b0ebb6d9f</sys_scope>
+        <sys_security_acl display_value="x_app_ih1_3_table">c016812d35a52200964f3d3b0ebb6dfe</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8816c12d35a52200964f3d3b0ebb6d0d</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2016-08-29 20:22:43</sys_updated_on>
+        <sys_user_role display_value="x_app_ih1_3.user" name="x_app_ih1_3.user">3706812d35a52200964f3d3b0ebb6ded</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
